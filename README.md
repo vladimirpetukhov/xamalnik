@@ -1,0 +1,2 @@
+# xamalnik
+Angular Ionic startup

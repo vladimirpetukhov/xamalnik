@@ -1,0 +1,7 @@
+{
+  "name": "xamalnik",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
